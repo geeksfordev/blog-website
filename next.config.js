@@ -284,10 +284,6 @@ module.exports = {
         destination: '/community/test-automation-tools',
         permanent: true,
       },
-
-      // ──────────────────────────────────────────────────────────
-      // Merged posts — old post merged into destination
-      // ──────────────────────────────────────────────────────────
       {
         source: '/community/exploring-the-effectiveness-of-e2e-testing-in-comparison-with-integration-testing',
         destination: '/technology/integration-vs-e2e-testing-what-worked-for-me-as-a-charm',
